@@ -1,0 +1,2 @@
+pacman -S plasma-meta  kde-applications sddm xorg wqy-microhei deepin-terminal deepin-file-manager deepin-compressor deepin-music deepin-editor deepin-image-viewer deepin-widgets ntfg-3g firefox
+systemd enable sddm
